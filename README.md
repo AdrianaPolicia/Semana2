@@ -1,4 +1,4 @@
-# Semana2
+# Banco de dados com Supabase
 CREATE TABLE alunos (
   id SERIAL PRIMARY KEY,
   nome TEXT NOT NULL,

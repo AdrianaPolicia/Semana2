@@ -1,4 +1,5 @@
-# Semana2CREATE TABLE alunos (
+# Semana2
+CREATE TABLE alunos (
   id SERIAL PRIMARY KEY,
   nome TEXT NOT NULL,
   turma TEXT NOT NULL,
